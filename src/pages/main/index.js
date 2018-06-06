@@ -20,33 +20,6 @@ const albums = [
     title: 'Hybrid Theory',
     author: 'Linkin Park',
     thumbnail: 'https://s3-sa-east-1.amazonaws.com/gonative/linkin_park.jpg',
-    songs: [
-      {
-        id: 0,
-        title: 'Papercut',
-        author: 'Linkin Park',
-      },
-      {
-        id: 1,
-        title: 'One Step Closer',
-        author: 'Linkin Park',
-      },
-      {
-        id: 2,
-        title: 'With You',
-        author: 'Linkin Park',
-      },
-      {
-        id: 3,
-        title: 'Points of Authority',
-        author: 'Linkin Park',
-      },
-      {
-        id: 4,
-        title: 'Crawling',
-        author: 'Linkin Park',
-      },
-    ],
   },
   {
     id: 1,
